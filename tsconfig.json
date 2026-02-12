@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "ESNext",
+        "strict": true,
+        "esModuleInterop": true,
+        "outDir": "public/js",
+        "rootDir": "resources",
+        "forceConsistentCasingInFileNames": true
+    },
+    "include": ["resources/**/*.ts"]
+}
