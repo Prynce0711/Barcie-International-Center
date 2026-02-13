@@ -1,18 +1,23 @@
-<section id="About" class="relative bg-[#1e252b] text-white overflow-hidden min-h-screen flex flex-col ">
+<section id="About" class="relative text-white overflow-hidden min-h-screen flex flex-col ">
+
+    <!-- semi-transparent background overlay (Tailwind alpha) -->
+    <div class="absolute inset-0 bg-[#1e252b]/80 pointer-events-none"></div>
+
+   
+
 
     <!-- Top Title -->
-    <div class="w-full text-center pt-16 pb-6">
+    <div class="w-full text-center pt-16 pb-6 relative z-10">
         <h1 class="text-4xl lg:text-5xl font-extrabold tracking-wide text-white relative inline-block">
             About Us
             <span class="block h-1 w-20 bg-yellow-400 mx-auto mt-4 rounded-full"></span>
         </h1>
     </div>
 
-    {{-- todo: Background --}}
 
 
     <!-- Content -->
-    <div class="relative max-w-7xl mx-auto px-6 lg:px-8 py-16 flex-1 flex items-center">
+    <div class="relative z-10 max-w-7xl mx-auto px-6 lg:px-8 py-16 flex-1 flex items-center">
 
         <div class="grid lg:grid-cols-12 gap-12 items-center w-full">
 
@@ -43,6 +48,6 @@
         </div>
 
     </div>
-    </div>
+
 
 </section>

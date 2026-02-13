@@ -1,4 +1,9 @@
-<section id="Foundation" class="relative bg-[#1e252b] text-white overflow-hidden min-h-screen flex flex-col ">
+<section id="About" class="relative text-white overflow-hidden min-h-screen flex flex-col ">
+
+    <!-- semi-transparent background overlay (Tailwind alpha) -->
+    <div class="absolute inset-0 bg-[#1e252b]/80 pointer-events-none"></div>
+
+
 
     <!-- Top Title -->
     <div class="w-full text-center pt-16 pb-6">
@@ -10,6 +15,8 @@
     </div>
 
     {{-- todo: Background --}}
+
+
 
 
     <div class="relative max-w-7xl mx-auto px-6 lg:px-8 py-16 flex-1 items-center">

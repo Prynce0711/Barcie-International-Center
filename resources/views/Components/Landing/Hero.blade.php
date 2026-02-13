@@ -1,13 +1,6 @@
 <section id="Hero"
-    class="relative overflow-hidden min-h-screen flex items-center justify-center bg-[#1e252b] text-white">
+    class="relative overflow-hidden min-h-screen flex items-center justify-center inset-0 bg-[#1e252b]/80 pointer-events-none">
 
-
-    <!-- Background image -->
-    <div class="absolute inset-0">
-        <img src="/imageBg/barCIE-0.jpg" alt="BarCIE Building"
-            class="w-full h-full object-cover brightness-50 animate-background-zoom">
-        <div class="absolute inset-0 bg-light mix-blend-multiply"></div>
-    </div>
 
 
 

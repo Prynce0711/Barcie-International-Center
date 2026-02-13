@@ -81,3 +81,20 @@ module.exports = {
         darkTheme: "barcie",
     },
 };
+
+// tailwind.config.js
+module.exports = {
+    plugins: [require("daisyui")],
+    daisyui: {
+        themes: [
+            {
+                mytheme: {
+                    "base-100": "#1e293b", // your new background color
+                    "base-200": "#1e293b",
+                    "base-300": "#1e293b",
+                    "base-content": "#ffffff",
+                },
+            },
+        ],
+    },
+};

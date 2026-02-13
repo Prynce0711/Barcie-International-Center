@@ -17,16 +17,16 @@
                 <button onclick="document.getElementById('Foundation').scrollIntoView({ behavior: 'smooth' })"
                     class="btn btn-ghost btn-sm uppercase tracking-tight font-normal px-3">Vision & Mission</button>
 
-                <button onclick="window.location.href='/news'"
+                <button onclick="document.getElementById('News').scrollIntoView({ behavior: 'smooth' })"
                     class="btn btn-ghost btn-sm uppercase tracking-tight font-normal px-3">News & Updates</button>
 
-                <button onclick="window.location.href='/event-stylists'"
+                <button onclick="document.getElementById('EventStylists').scrollIntoView({ behavior: 'smooth' })"
                     class="btn btn-ghost btn-sm uppercase tracking-tight font-normal px-3">Event Stylists</button>
 
-                <button onclick="window.location.href='/caterings'"
+                <button onclick="document.getElementById('Caterings').scrollIntoView({ behavior: 'smooth' })"
                     class="btn btn-ghost btn-sm uppercase tracking-tight font-normal px-3">Caterings</button>
 
-                <button onclick="window.location.href='/brochure'"
+                <button onclick="document.getElementById('Brochure').scrollIntoView({ behavior: 'smooth' })"
                     class="btn btn-ghost btn-sm uppercase tracking-tight px-4">Brochure</button>
             </div>
 

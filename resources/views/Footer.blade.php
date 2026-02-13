@@ -3,13 +3,5 @@
         &copy; {{ date('Y') }} Barcie International Center
     </h6>
 
-    {{-- <aside>
-
-        Barcie International Center
-        <br />
-        Providing reliable tech since 1992
-        </p>
-    </aside> --}}
-
 
 </footer>
