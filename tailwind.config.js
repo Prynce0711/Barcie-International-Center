@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+/** @type {import('tailwindcss').Config} */
 module.exports = {
     content: [
         "./resources/**/*.blade.php",
@@ -77,24 +78,15 @@ module.exports = {
                     error: "#ef4444",
                 },
             },
-        ],
-        darkTheme: "barcie",
-    },
-};
-
-// tailwind.config.js
-module.exports = {
-    plugins: [require("daisyui")],
-    daisyui: {
-        themes: [
             {
                 mytheme: {
-                    "base-100": "#1e293b", // your new background color
+                    "base-100": "#1e293b",
                     "base-200": "#1e293b",
                     "base-300": "#1e293b",
                     "base-content": "#ffffff",
                 },
             },
         ],
+        darkTheme: "barcie",
     },
 };

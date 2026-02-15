@@ -10,7 +10,7 @@
     <img src="" alt="">
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 
-    
+
 
 
 </head>
@@ -19,7 +19,7 @@
 <body data-theme="barcie" class="antialiased landing-bg">
 
     <style>
-        body.landing-bg{
+        body.landing-bg {
             background-image: url('/Lobby/BarCIE-9.1.jpg');
             background-attachment: fixed;
             background-size: cover;
@@ -34,7 +34,7 @@
     {{--TODO: News & Updates --}}
     @include('Components.Landing.EventStylist')
     @include('Components.Landing.PartnerCatering')
-   
+
 </body>
 
 

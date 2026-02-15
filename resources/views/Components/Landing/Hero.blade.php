@@ -1,9 +1,5 @@
 <section id="Hero"
-    class="relative overflow-hidden min-h-screen flex items-center justify-center inset-0 bg-[#1e252b]/80 pointer-events-none">
-
-
-
-
+    class="relative overflow-hidden min-h-screen flex items-center justify-center inset-0 bg-[#1e252b]/80">
 
     <div class="relative max-w-7xl mx-auto px-6 lg:px-8 py-24 lg:py-5">
         <div class="grid lsg:grid-cols-12 gap-8 items-center">
@@ -56,7 +52,7 @@
                 <div class="d-flex justify-between w-100 hero-buttons animate-fade-in-up" style="animation-delay: 1s;">
                     <button
                         class="btn btn-warning transition duration-300 ease-in-out hover:scale-105 hover:-translate-y-1"
-                        s onclick="window.location.href='Guest.php'">
+                        onclick="window.location.href='{{ route('GuestDashboard') }}'">
                         <i class="fas fa-arrow-right me-2"></i>Get Started
                     </button>
                     <button
