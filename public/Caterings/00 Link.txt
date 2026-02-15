@@ -1,0 +1,60 @@
+PARTNER CATERINGS {
+
+ALMA SAN PEDRO CATERING & SERVICES
+"C:\xampp\htdocs\barcie_php\assets\images\Caterings\alma San Pedro.jpg"
+https://www.facebook.com/almasanpedroscateringservices/
+(044) 791 3820
+
+TAVERNA BY BNT
+"C:\xampp\htdocs\barcie_php\assets\images\Caterings\taverna.jpg"
+https://www.facebook.com/TevernabyBNT
+(044) 896 1387
+(044) 791 1188
+0905 357 1188
+
+
+LEONY'S EVENT STYLING AND CATERING SERVICES
+"C:\xampp\htdocs\barcie_php\assets\images\Caterings\Leonys.jpg"
+https://www.facebook.com/p/Leonys-Event-styling-and-catering-service-100063709154603/
+(044) 794 2392
+
+
+MOMMY LOU'S & NELXYS FOOD HUB
+"C:\xampp\htdocs\barcie_php\assets\images\Caterings\mommy.jpg"
+https://www.facebook.com/mommylous2/
+(044) 896 4601 
+0915 881 8476
+
+
+
+FAMILY AFFAIR EVENT SPECIALIST(FAES)
+"C:\xampp\htdocs\barcie_php\assets\images\Caterings\family Affair.jpg"
+https://www.facebook.com/fa
+0991 410 9805
+
+
+
+flavors and catering
+"C:\xampp\htdocs\barcie_php\assets\images\Caterings\flavor and catering.jpg"
+https://www.facebook.com/FlavorsAndSpicesCatering/about/?_rdr
+0917 867 1111
+
+
+} 
+
+
+PARTNER EVENT STYLIST {
+
+house of brides
+https://www.facebook.com/hobevents
+"C:\xampp\htdocs\barcie_php\assets\images\Caterings\house of brides.jpg"
+0915 865 8973
+
+}
+
+
+
+
+
+
+

@@ -1,5 +1,5 @@
 <div class="lg:col-span-7 card">
-    <h2 class="text-4xl lg:text-6xl font-extrabold hover:text-yellow-400 leading-tight drop-shadow-lg ">
+    <h2 class="text-4xl lg:text-6xl font-extrabold hover:text-yellow-400 leading-tight drop-shadow-lg text-center">
         {{ $title }}
     </h2>
 
